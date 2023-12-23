@@ -1,2 +1,2 @@
-# EnPortfolio
-Repository holding Mario Rodriguez-Montoya's notable works in classes, extracurriculars, research, and personal projects
+#  Mario Rodriguez-Montoya's Portfolio
+Repository holding notable works in classes, extracurriculars, research, and personal projects
