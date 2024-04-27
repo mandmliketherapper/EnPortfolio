@@ -1,0 +1,3 @@
+[submodule "Git_and_TestDrivenDevelopment/project-Bank_App"]
+	path = Git_and_TestDrivenDevelopment/project-Bank_App
+	url = https://github.com/CSE237-SP24/project-penguins.git
