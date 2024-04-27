@@ -1,3 +1,9 @@
 [submodule "Git_and_TestDrivenDevelopment/project-Bank_App"]
 	path = Git_and_TestDrivenDevelopment/project-Bank_App
 	url = https://github.com/CSE237-SP24/project-penguins.git
+[submodule "OOP_projects/OOP_projects/RefactoringPractice"]
+	path = OOP_projects/OOP_projects/RefactoringPractice
+	url = https://github.com/cse332s-sp24-wustl/lab4-mario-shangwe-andrew.git
+[submodule "OOP_projects/RefactoringPractice"]
+	path = OOP_projects/RefactoringPractice
+	url = https://github.com/cse332s-sp24-wustl/lab4-mario-shangwe-andrew.git
