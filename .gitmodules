@@ -7,3 +7,6 @@
 [submodule "OOP_projects/RefactoringPractice"]
 	path = OOP_projects/RefactoringPractice
 	url = https://github.com/cse332s-sp24-wustl/lab4-mario-shangwe-andrew.git
+[submodule "ControlAndSignalAnalysis/RoverCarControl/RoverCarControlCode"]
+	path = ControlAndSignalAnalysis/RoverCarControl/RoverCarControlCode
+	url = https://github.com/ESE205/module-10-rodriguezmontoya-kuchak.git
